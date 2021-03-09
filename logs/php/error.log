@@ -1,0 +1,147 @@
+[08-Mar-2021 21:14:23 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 1182
+[08-Mar-2021 21:14:23 UTC] PHP Stack trace:
+[08-Mar-2021 21:14:23 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[08-Mar-2021 21:14:23 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[08-Mar-2021 21:14:23 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[08-Mar-2021 21:14:23 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[08-Mar-2021 21:14:23 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[08-Mar-2021 21:14:23 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 1219
+[08-Mar-2021 21:14:23 UTC] PHP Stack trace:
+[08-Mar-2021 21:14:23 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[08-Mar-2021 21:14:23 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[08-Mar-2021 21:14:23 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[08-Mar-2021 21:14:23 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[08-Mar-2021 21:14:23 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[08-Mar-2021 21:14:23 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 1223
+[08-Mar-2021 21:14:23 UTC] PHP Stack trace:
+[08-Mar-2021 21:14:23 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[08-Mar-2021 21:14:23 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[08-Mar-2021 21:14:23 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[08-Mar-2021 21:14:23 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[08-Mar-2021 21:14:23 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[08-Mar-2021 21:14:23 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 1248
+[08-Mar-2021 21:14:23 UTC] PHP Stack trace:
+[08-Mar-2021 21:14:23 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[08-Mar-2021 21:14:23 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[08-Mar-2021 21:14:23 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[08-Mar-2021 21:14:23 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[08-Mar-2021 21:14:23 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[08-Mar-2021 21:14:23 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 2964
+[08-Mar-2021 21:14:23 UTC] PHP Stack trace:
+[08-Mar-2021 21:14:23 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[08-Mar-2021 21:14:23 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[08-Mar-2021 21:14:23 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[08-Mar-2021 21:14:23 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[08-Mar-2021 21:14:23 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[08-Mar-2021 21:14:23 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 2971
+[08-Mar-2021 21:14:23 UTC] PHP Stack trace:
+[08-Mar-2021 21:14:23 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[08-Mar-2021 21:14:23 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[08-Mar-2021 21:14:23 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[08-Mar-2021 21:14:23 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[08-Mar-2021 21:14:23 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[08-Mar-2021 21:14:23 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 2984
+[08-Mar-2021 21:14:23 UTC] PHP Stack trace:
+[08-Mar-2021 21:14:23 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[08-Mar-2021 21:14:23 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[08-Mar-2021 21:14:23 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[08-Mar-2021 21:14:23 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[08-Mar-2021 21:14:23 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 1182
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 1182
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 1219
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 1219
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 1223
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 1223
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 1248
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 1248
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 2964
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 2964
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 2971
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 2971
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 2984
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-content/plugins/gravityforms/common.php on line 2984
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP Stack trace:
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   1. {main}() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:0
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   2. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-cron.php:44
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   3. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-load.php:37
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
+[09-Mar-2021 03:49:46 UTC] PHP   4. require_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-config.php:77
+[09-Mar-2021 03:49:46 UTC] PHP   5. include_once() /Users/optimistwebdev/Local Sites/jefferson-capital-partners/app/public/wp-settings.php:388
